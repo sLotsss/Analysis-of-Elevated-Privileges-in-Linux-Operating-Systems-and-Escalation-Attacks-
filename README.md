@@ -1,8 +1,6 @@
 # Analysis-of-Elevated-Privileges-in-Linux-Operating-Systems-and-Escalation-Attacks-
 Analysis of Elevated Privileges in Linux  Operating Systems and Their Exploitation in Privilege  Escalation Attacks 
 
-Full here: https://drive.google.com/drive/folders/15I6fK9lu9YykP3o0xlvAmK_2I2Us3bld?usp=sharing
-
 
 #Overview
 
