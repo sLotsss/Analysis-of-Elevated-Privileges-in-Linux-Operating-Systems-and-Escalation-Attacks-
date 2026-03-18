@@ -1,7 +1,7 @@
 # Analysis-of-Elevated-Privileges-in-Linux-Operating-Systems-and-Escalation-Attacks-
 Analysis of Elevated Privileges in Linux  Operating Systems and Their Exploitation in Privilege  Escalation Attacks 
 
-Overview
+#Overview
 
 This project presents a comprehensive analysis of elevated privileges in Linux operating systems and how they can be exploited in privilege escalation attacks. It also compares security mechanisms between Linux and Windows environments.
 
@@ -23,7 +23,7 @@ Demonstrate exploitation techniques using misconfigurations and vulnerabilities
 
 Provide security recommendations for system hardening
 
-Key Concepts
+#Key Concepts
 
 Access Control (DAC, MAC, RBAC)
 
@@ -37,7 +37,7 @@ SUID, Sudo Misconfiguration, Cron Jobs
 
 Kernel Exploits (CVE-based attacks)
 
- Experimental Lab
+#Experimental Lab
  1. Attack on Windows 10
 
 Create backdoor using msfvenom
@@ -76,7 +76,7 @@ Create backdoor root user
 
 Achieve full root access
 
- Tools & Technologies
+ #Tools & Technologies
 
 Kali Linux
 
@@ -92,7 +92,7 @@ Apache Web Server
 
 Python HTTP Server
 
- Key Findings
+ #Key Findings
 
 Misconfigurations are the most common cause of privilege escalation
 
@@ -110,7 +110,7 @@ Exploitation
 
 Privilege escalation
 
- Security Recommendations
+ #Security Recommendations
 
 Apply Principle of Least Privilege (PoLP)
 
