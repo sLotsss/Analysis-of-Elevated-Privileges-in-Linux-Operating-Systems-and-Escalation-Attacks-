@@ -37,8 +37,8 @@ SUID, Sudo Misconfiguration, Cron Jobs
 
 Kernel Exploits (CVE-based attacks)
 
-🧪 Experimental Lab
-🔹 1. Attack on Windows 10
+ Experimental Lab
+ 1. Attack on Windows 10
 
 Create backdoor using msfvenom
 
@@ -60,7 +60,7 @@ Screenshot capture
 
 Password change
 
-🔹 2. Attack on Ubuntu (Linux)
+ 2. Attack on Ubuntu (Linux)
 
 Create reverse shell (.elf)
 
@@ -76,7 +76,7 @@ Create backdoor root user
 
 Achieve full root access
 
-🛠️ Tools & Technologies
+ Tools & Technologies
 
 Kali Linux
 
@@ -92,7 +92,7 @@ Apache Web Server
 
 Python HTTP Server
 
-⚠️ Key Findings
+ Key Findings
 
 Misconfigurations are the most common cause of privilege escalation
 
@@ -110,7 +110,7 @@ Exploitation
 
 Privilege escalation
 
-🛡️ Security Recommendations
+ Security Recommendations
 
 Apply Principle of Least Privilege (PoLP)
 
